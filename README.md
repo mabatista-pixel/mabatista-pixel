@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A passionate fullstack developer and future software engineer from Brazil</h3>
 
-- Linkedin profile **https://www.linkedin.com/in/matheus-batista-cesar-62037a278/**
-
 - 📫 How to reach me **batistacesarmatheus@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedin profile -  **https://www.linkedin.com/in/matheus-batista-cesar-62037a278/** </h3>
 <p align="left">
 </p>
 
